@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+src/BOOK_SUMMARY/__init__.py
+src/BOOK_SUMMARY.egg-info/PKG-INFO
+src/BOOK_SUMMARY.egg-info/SOURCES.txt
+src/BOOK_SUMMARY.egg-info/dependency_links.txt
+src/BOOK_SUMMARY.egg-info/top_level.txt
+src/BOOK_SUMMARY/components/__init__.py
+src/BOOK_SUMMARY/config/__init__.py
+src/BOOK_SUMMARY/config/configuration.py
+src/BOOK_SUMMARY/constants/__init__.py
+src/BOOK_SUMMARY/entity/__init__.py
+src/BOOK_SUMMARY/logging/__init__.py
+src/BOOK_SUMMARY/pipeline/__init__.py
+src/BOOK_SUMMARY/utils/__init__.py
+src/BOOK_SUMMARY/utils/common.py

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: BOOK_SUMMARY
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/AishwaryaHastak/Book_Summary
+Author: AishwaryaHastak
+Author-email: h4hastak@gmail.com
+Project-URL: Bug Tracker, https://github.com/AishwaryaHastak/Book_Summary/issues
+License-File: LICENSE
+
+# Book_summary
