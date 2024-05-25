@@ -5,7 +5,7 @@ Used Google's Pre-trained Pegasus model for text summarization.
 
 # Dataset
 Used a HuggingFace dataset for fine-tuning to get summaries of research papers.
-Ref: pt-sk/research_papers_short
+Ref: ccdv/arxiv-summarization
 
 # Future Work
 
